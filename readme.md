@@ -25,6 +25,7 @@ Tutorial for practicing Terraform. Create the following configurations:
 
 - Type Command on shell.  
   > $ terraform init
+  > 
   > $ terraform apply 
   - Enter 'cftMyIpAddress', your global IP Address.(ex:11.11.11.11/32)
 
